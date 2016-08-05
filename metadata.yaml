@@ -1,0 +1,30 @@
+_repo: Afghanistan-and-the-Anglo-Russian-Dispute_7320
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rodenbough, Theophilus F. (Theophilus Francis)
+    aliases:
+    - Rodenbough, Theo. F.
+    - Rodenbough, Theophilus Francis
+    birthdate: 1838
+    deathdate: 1912
+    gutenberg_agent_id: '2421'
+    url: http://www.gutenberg.org/2009/agents/2421
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russians -- Asia, Central'
+- !lcsh 'Eastern question (Central Asia)'
+- !lcsh 'Afghanistan'
+- !lcc 'DS'
+- !lcsh 'India -- Defenses'
+- GITenberg
+title: Afghanistan and the Anglo-Russian Dispute
+url: http://www.gutenberg.org/ebooks/7320
